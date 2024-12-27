@@ -26,3 +26,12 @@ const obj4 = {5: "A" , 6: "B"}
 
 // console.log(obj3)
 
+
+const course = {
+    coursename : "js",
+    price :"0",
+    courseReader:"Piyush"
+}
+
+const {courseReader} = course 
+console.log(courseReader)
