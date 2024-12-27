@@ -32,6 +32,5 @@ const course = {
     price :"0",
     courseReader:"Piyush"
 }
-
 const {courseReader} = course 
 console.log(courseReader)
